@@ -1,0 +1,33 @@
+produto,price,entregue
+cadeira,500,False
+mesa,200,True
+mouse,50,False
+teclado,150,True
+monitor,800,False
+fone de ouvido,120,True
+impressora,600,False
+sofá,1200,True
+geladeira,2500,False
+cama,900,True
+tablet,700,False
+smartphone,1800,True
+notebook,3500,False
+cafeteira,250,True
+liquidificador,300,False
+armário,1100,True
+televisão,2200,False
+fogão,1800,True
+micro-ondas,900,False
+ventilador,400,True
+torradeira,150,False
+aspirador de pó,750,True
+cadeira gamer,1200,False
+smartwatch,950,True
+mochila,180,False
+carregador portátil,220,True
+camera digital,2500,False
+drone,3200,True
+console de videogame,4500,False
+lavadora de roupas,2800,True
+secador de cabelo,350,False
+mousepad,80,True
